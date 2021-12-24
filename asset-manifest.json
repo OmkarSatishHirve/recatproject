@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/recatproject/static/css/main.6665f5e8.css",
+    "main.js": "/recatproject/static/js/main.76c52792.js",
+    "index.html": "/recatproject/index.html",
+    "main.6665f5e8.css.map": "/recatproject/static/css/main.6665f5e8.css.map",
+    "main.76c52792.js.map": "/recatproject/static/js/main.76c52792.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6665f5e8.css",
+    "static/js/main.76c52792.js"
+  ]
+}
